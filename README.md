@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student
 🤖 AI & Machine Learning Enthusiast
-🐍 Python Developer
+🐍 Python for AI, Automation, and Data Science
 📱 Android Automation 
 
 ---
