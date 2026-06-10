@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Sai Sharan
 
-🎓 B.Tech Student
-🤖 AI & Machine Learning Enthusiast
-🐍 Python for AI, Automation, and Data Science
-📱 Android Automation 
+ B.Tech Student
+ AI & Machine Learning Enthusiast
+ Python for AI, Automation, and Data Science
+ Android Automation 
 
 ---
 
-## 🚀 Skills
+##  Skills
 
 - Python
 - java
@@ -26,17 +26,17 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🛡️ FraudShield
+###  FraudShield
 Machine Learning based Credit Card Fraud Detection System using Ensemble Learning.
 
-### 🤖 Autonomous Android UI Agent
+###  Autonomous Android UI Agent
 AI-powered Android agent using Appium and Vision Language Models.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Deep Learning
 - LLMs
@@ -44,13 +44,10 @@ AI-powered Android agent using Appium and Vision Language Models.
 - Computer Vision
 
 ---
-🔭 I’m currently working on an AI-driven Android Automation Agent
-
-🤖 Building autonomous agents for Android using Appium, OCR, Computer Vision, and Vision-Language Models
-
-📱 Exploring Agentic AI, Multi-Agent Systems, and LLM-powered task automation
-
-⭐ Always curious to learn and build innovative solutions.
+I’m currently working on an AI-driven Android Automation Agent
+ Building autonomous agents for Android using Appium, OCR, Computer Vision, and Vision-Language Models
+ Exploring Agentic AI, Multi-Agent Systems, and LLM-powered task automation
+Always curious to learn and build innovative solutions.
 
 <!--
 **SaiSharan18/SaiSharan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
