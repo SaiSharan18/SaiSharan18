@@ -2,7 +2,7 @@
 
  B.Tech Student
  AI & Machine Learning Enthusiast
- Python for AI, Automation, and Data Science
+ Agentic AI ,
  Android Automation 
 
 ---
@@ -38,10 +38,10 @@ AI-powered Android agent using Appium and Vision Language Models.
 
 ##  Currently Learning
 
-- Deep Learning
 - LLMs
 - Agentic AI
-- Computer Vision
+- API'S
+- System Design f
 
 ---
 I’m currently working on an AI-driven Android Automation Agent
