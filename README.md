@@ -3,7 +3,6 @@
  B.Tech Student
  AI & Machine Learning Enthusiast
  Agentic AI ,
- Android Automation 
 
 ---
 
@@ -11,6 +10,7 @@
 
 - Python
 - java
+- SpringBoot
 - Machine Learning
 - Flask
 - XGBoost
@@ -41,7 +41,7 @@ AI-powered Android agent using Appium and Vision Language Models.
 - LLMs
 - Agentic AI
 - API'S
-- System Design f
+- System Design
 
 ---
 I’m currently working on an AI-driven Android Automation Agent
